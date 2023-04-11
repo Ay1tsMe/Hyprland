@@ -112,4 +112,6 @@ sudo pacman -S package-name
 ```
 Replace package-name with the name of the package you want to install (e.g., firefox, vim, etc.).
 
+For any further documentation, most topics are covered on the [Hyprland Wiki](https://wiki.hyprland.org/)
+
 **Enjoy your Hyprland experience!**
