@@ -1,0 +1,8 @@
+#!/usr/bin/bash
+
+# Start swwww
+swww query || swww init
+
+# Select the background
+swww img ~/.config/hypr/backgrounds/mountain1Purple.png
+fi
