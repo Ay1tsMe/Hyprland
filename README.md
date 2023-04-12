@@ -1,6 +1,6 @@
 # Hyprland Installation Script
 
-![Desktop Image](.images/swappy-20230410_131336.png) (replace with GIF)
+![Desktop Image](.images/output.gif)
 
 This repository contains an install script to set up Hyprland on a fresh **Arch-based installation.** The script installs only the essential components required to get Hyprland up and running. It does not include everyday use packages such as web browsers, text editors, or other utilities. You can also just grab the .dotfiles and use them for your hyprland DE. **Has not been tested with a NVIDIA GPU. Your mileage may vary.**
 
