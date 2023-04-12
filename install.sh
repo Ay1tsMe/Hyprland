@@ -179,4 +179,3 @@ fi
 
 ### Script is done ###
 echo -e "$CNT - Script had completed! You may now start Hyprland! (type "Hyprland" in the terminal to start)"
-fi
